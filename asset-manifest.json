@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Start-React/static/css/main.b0dde090.css",
+    "main.js": "/Start-React/static/js/main.788f70bc.js",
+    "static/media/cabin.png": "/Start-React/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/Untitled-removebg-preview.png": "/Start-React/static/media/Untitled-removebg-preview.f89e3bbebb30a25515eb.png",
+    "static/media/circus.png": "/Start-React/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/Start-React/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/submarine.png": "/Start-React/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/safe.png": "/Start-React/static/media/safe.01792c0bdc342bf4bf9c.png",
+    "static/media/cake.png": "/Start-React/static/media/cake.6554473016d32b343f02.png",
+    "index.html": "/Start-React/index.html",
+    "main.b0dde090.css.map": "/Start-React/static/css/main.b0dde090.css.map",
+    "main.788f70bc.js.map": "/Start-React/static/js/main.788f70bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b0dde090.css",
+    "static/js/main.788f70bc.js"
+  ]
+}
